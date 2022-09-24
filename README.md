@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi! Thanks For Watching my github.</h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=DucKyWay" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=DucKyWay" alt="Typing SVG" /></a>
 </p>
 
 ## 🏫 Education  
