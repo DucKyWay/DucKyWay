@@ -25,5 +25,5 @@
 [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/nijiducky/)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/_ducky_way_/)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/XvaDu)
-[<img src="https://www.svgrepo.com/show/353655/discord-icon.svg" width="25">](https://discord.com/channels/@me/321924157677895680)
+[<img src="https://img.shields.io/badge/discord-2818BA?style=for-the-badge&labelColor=2818BA">](https://discord.com/channels/@me/321924157677895680)
 <p>E-mail: c.suphawinee@gmail.com</p>
