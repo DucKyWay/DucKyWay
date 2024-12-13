@@ -8,7 +8,7 @@
   <tr>
     <td>High school</td>
     <td>Amatyakul School</td>
-    <td>Default</td>
+    <td>-</td>
   </tr>
   <tr>
     <td>Senior high school</td>
