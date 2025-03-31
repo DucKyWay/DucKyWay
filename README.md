@@ -22,8 +22,6 @@
   </tr>
 <table>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DucKyWay&layout=compact)
-
 [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/nijiducky/)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/_ducky_way_/)
 [<img src="https://img.shields.io/badge/x_twitter-000000?style=for-the-badge&logo=custom&logoColor=white&logo=https%3A%2F%2Fwww.svgrepo.com%2Fshow%2F512332%2Fx.svg">](https://twitter.com/XvaDu)
