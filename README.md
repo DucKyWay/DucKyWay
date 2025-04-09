@@ -28,7 +28,7 @@
 ### Framework/Library
 - React, Nuxt.js, Next.js, Laravel, Flutter, Vue, Tailwind, Bootstrap
 ### Database
-MySQL, MongoDB, Oracle
+- MySQL, MongoDB, Oracle
 ### Other
 - Android Studio, Visual Studio, Arduino, GitHub, Linux
 
