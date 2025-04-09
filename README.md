@@ -26,7 +26,7 @@
 ### Language
 - Java, PHP, C, C++, Python, JavaScript, Typescript, Dart
 ### Framework/Library
-- React, Nuxt.js, Next.js, Laravel, Flutter, Vue, Tailwind, Bootstrap
+- Nuxt.js, Next.js, Laravel, Flutter, Vue, Tailwind, Bootstrap
 ### Database
 - MySQL, MongoDB, Oracle
 ### Other
