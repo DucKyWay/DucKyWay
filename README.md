@@ -23,14 +23,24 @@
 <table>
 
 ## TechStack
-### Language
-- Java, PHP, C, C++, Python, JavaScript, Typescript, Dart
-### Framework/Library
-- Nuxt.js, Next.js, Laravel, Flutter, Vue, Tailwind, Bootstrap
-### Database
-- MySQL, MongoDB, Oracle
-### Other
-- Android Studio, Visual Studio, Arduino, GitHub, Linux
+<table>
+  <tr>
+    <td>Language</td>
+    <td>Java, PHP, C, C++, Python, JavaScript, Typescript, Dart</td>
+  </tr>
+  <tr>
+    <td>Framework/Library</td>
+    <td>Nuxt.js, Next.js, Laravel, Flutter, Vue, Tailwind, Bootstrap</td>
+  </tr>
+  <tr>
+    <td>Database</td>
+    <td>MySQL, MongoDB, Oracle</td>
+  </tr>
+  <tr>
+    <td>Other</td>
+    <td>Android Studio, Visual Studio, Arduino, GitHub, Linux</td>
+  </tr>
+</table>
 
 ## Social
 [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/nijiducky/)
